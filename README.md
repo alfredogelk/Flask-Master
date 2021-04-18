@@ -1,0 +1,2 @@
+# Flask-Master
+Desenvolvendo um dashboard administrativo com Flask Aprenda a desenvolver um dashboard administrativo utilizando esse incrível framework criado em Python e utilizado por algumas das maiores empresas de tecnologias do mundo. Aprenderemos a criar um modelo de autenticação segura, um painel administrativo e a configurar nosso banco de dados automaticamente através de nossa aplicação, tudo através do próprio Flask. e phyton
